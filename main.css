@@ -4,6 +4,12 @@ body::before {
   height: 60px;
 }
 
+.contact-img {
+  border: 5px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}
+
 @media (min-width: 768px) {
   .news-input {
     width: 50%;
